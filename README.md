@@ -1,6 +1,6 @@
 # MVP - Pipeline de Dados: Análise Salarial
 
-Este projeto tem como objetivo construir um pipeline de dados utilizando Databricks para analisar a relação entre características profissionais e sociodemográficas e a faixa de renda anual dos indivíduos presentes na base de dados utilizada.
+Este projeto tem como objetivo construir um pipeline de dados utilizando **Databricks** para analisar a relação entre características profissionais e sociodemográficas e a faixa de renda anual dos indivíduos presentes na base de dados utilizada.
 
 O projeto contempla as etapas de ingestão, armazenamento, tratamento, modelagem, avaliação da qualidade dos dados e análise das informações, seguindo uma arquitetura de dados em camadas.
 
